@@ -1,5 +1,5 @@
 
-# Pertemuan 09 – List/Array dan Pengolahan Data Numerik Sederhana
+# Pertemuan 09 - List dan Pengolahan Data Numerik
 
 | Keterangan | informasi |
 |---|---|
@@ -56,3 +56,7 @@ pertemuan-09-list-NIM/
 3. **Materi sebelumnya yang membantu:** Perulangan, seleksi, dan fungsi membantu mengolah setiap elemen list serta memeriksa kondisi kelulusan.
 4. **Persiapan untuk materi string:** Memahami indeks, slicing, dan perulangan untuk mengakses serta mengolah karakter dalam string.
 
+## Sumber dan Bantuan
+- Bahan ajar Pertemuan 09, Algoritma dan Pemrograman (Dr. Aan Hendrayana, S.Si., M.Pd.).
+- Dokumentasi Python 3: Data Structures.
+- Bantuan AI digunakan untuk menyusun draf kode, README, dan pengujian; saya telah membaca dan menjalankan seluruh kode tersebut.
